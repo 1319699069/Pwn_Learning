@@ -1,10 +1,4 @@
-# 设置签名：
-	git config --global user.name xxxxxx	
-	git config --global user.email xxxxxx
 
-# 状态查看：
-	git status	
-	
 # 克隆仓库:
 	git clone + 仓库地址
 
@@ -26,3 +20,11 @@
 	1.git push
 	
 	2.git push origin master //push -f 可以强制push
+
+# 设置签名：
+	git config --global user.name xxxxxx	
+	git config --global user.email xxxxxx
+
+# 状态查看：
+	git status	
+	
